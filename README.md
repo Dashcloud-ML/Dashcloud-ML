@@ -1,7 +1,9 @@
 <h1 align="center">Hey, Darshan these side 👋</h1>
-
+<p align="center">
 <img src="https://github.com/Dashcloud-ML/Dashcloud-ML/blob/main/81e42e7f-0258-488e-95bc-ab37b7a93347.webp" width="150" height="150">
-<h2 align="center"> 🔭 I’m currently working on : </h2>
+</p>
+
+<h2 align="center"> 🔭 I’m currently working on.. </h2>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
