@@ -1,6 +1,6 @@
 <h1 align="center">Hey, Darshan these side 👋</h1>
 
-<img src="https://github.com/Dashcloud-ML/Dashcloud-ML/blob/main/81e42e7f-0258-488e-95bc-ab37b7a93347.webp" width="150" height="150">
+<img src="https://github.com/Dashcloud-ML/Dashcloud-ML/blob/main/81e42e7f-0258-488e-95bc-ab37b7a93347.webp" width="150" height="150" align="center">
 ## 🔭 I’m currently working on
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
