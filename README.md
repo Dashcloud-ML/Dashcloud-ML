@@ -1,5 +1,7 @@
 ## Hi..Darshan these Side 👋
 ![Profile Picture](https://github.com/Dashcloud-ML/Dashcloud-ML/blob/main/81e42e7f-0258-488e-95bc-ab37b7a93347.webp)
+<img src="https://github.com/Dashcloud-ML/Dashcloud-ML/blob/main/81e42e7f-0258-488e-95bc-ab37b7a93347.webp" width="150" height="150">
+
 
 
 <!--
