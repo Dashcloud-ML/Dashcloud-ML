@@ -1,5 +1,6 @@
 <h1 align="center">Hey, Darshan these side 👋</h1>
 <p align="center">
+I'm a passionate developer with a love for building amazing applications. I specialize in full-stack development and enjoy working with the latest technologies.
 <img src="https://github.com/Dashcloud-ML/Dashcloud-ML/blob/main/81e42e7f-0258-488e-95bc-ab37b7a93347.webp" width="150" height="150">
 </p>
 
