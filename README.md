@@ -13,7 +13,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
+## Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshan-wagh-1a1411203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Dashcloud-ML" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <!--
 **Dashcloud-ML/Dashcloud-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
