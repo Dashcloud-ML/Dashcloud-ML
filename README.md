@@ -29,7 +29,7 @@ I specialize in full-stack development and enjoy working with the new technologi
   </a>
 </p>
 
-<!--
+
 **Dashcloud-ML/Dashcloud-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -42,4 +42,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
