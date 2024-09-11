@@ -28,5 +28,3 @@ I specialize in full-stack development and enjoy working with the new technologi
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
-
-- ⚡ Fun fact: ...
