@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<h1 align="center">Hey, Darshan these side 👋</h1>
+<h1 align="center">Darshan these side 👋</h1>
 <p align="center">
 I'm a passionate developer with a love for building projects. <br>
 I specialize in full-stack development and enjoy working with the new technologies. <br>
