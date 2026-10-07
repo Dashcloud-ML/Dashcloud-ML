@@ -95,7 +95,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/d300add6-c96d-493b-a44e-105ef1c0eb33">
     <img 
-      src="aws-certified-ai-practitioner(1).png" 
+      src="aws-certified-ai-practitioner (1).png" 
       width="150" 
       alt="AWS Certified AI Practitioner"
     />
