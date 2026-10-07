@@ -160,7 +160,6 @@
       width="42"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Dashcloud-ML">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
