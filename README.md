@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I’m a Junior Software Developer passionate about building scalable cloud solutions,
+  I’m a Software Developer passionate about building scalable cloud solutions,
   automating deployments, and developing reliable software systems.
   <br><br>
   My current focus is on <b>AWS, Cloud Infrastructure, DevOps, CI/CD, Automation, and Cloud-based AI</b>.
@@ -77,17 +77,27 @@
 <h2 align="center">🏆 Certifications</h2>
 
 <p align="center">
+
   <a href="https://www.credly.com/badges/a1dc51c1-bc97-4336-a248-efee4dc330ab">
-    <img src="[YOUR_CREDLY_CLOUD_PRACTITIONER_BADGE_IMAGE](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" width="180" alt="AWS Certified Cloud Practitioner"/>
+    <img
+      src="./assets/aws-cloud-practitioner.png"
+      width="160"
+      alt="AWS Certified Cloud Practitioner"
+    />
   </a>
 
   <a href="https://www.credly.com/badges/d300add6-c96d-493b-a44e-105ef1c0eb33">
-    <img src="[YOUR_CREDLY_AI_PRACTITIONER_BADGE_IMAGE](https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)" width="180" alt="AWS Certified AI Practitioner"/>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a1dc51c1-bc97-4336-a248-efee4dc330ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </a>
 
   <a href="https://www.credly.com/badges/97dfd3e6-9154-404e-a408-2e99121b73f3">
-    <img src="[YOUR_CREDLY_GITHUB_FOUNDATIONS_BADGE_IMAGE](https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)" width="180" alt="GitHub Foundations"/>
+    <img
+      src="./assets/github-foundations.png"
+      width="160"
+      alt="GitHub Foundations"
+    />
   </a>
+
 </p>
 ---
 
