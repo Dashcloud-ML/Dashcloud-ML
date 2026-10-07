@@ -80,7 +80,7 @@
 
   <a href="https://www.credly.com/badges/a1dc51c1-bc97-4336-a248-efee4dc330ab">
     <img
-      src="./assets/aws-cloud-practitioner.png"
+      src="<img width="600" height="600" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/58bd5904-8014-4b95-9cbf-790e83321605" />"
       width="160"
       alt="AWS Certified Cloud Practitioner"
     />
