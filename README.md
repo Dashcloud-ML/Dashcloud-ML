@@ -100,14 +100,6 @@
   </a>  
 </p>
 
-<p align="center">
-  <b>AWS Certified Cloud Practitioner</b>
-
-    <b>GitHub Foundations</b>
-  
-  <b>AWS Certified AI Practitioner</b>
-</p>
-
 ---
 
 <h2 align="center">📌 Currently Exploring</h2>
