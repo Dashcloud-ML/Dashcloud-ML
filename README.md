@@ -102,10 +102,10 @@
 
 <p align="center">
   <b>AWS Certified Cloud Practitioner</b>
-  &nbsp; • &nbsp;
+
+    <b>GitHub Foundations</b>
+  
   <b>AWS Certified AI Practitioner</b>
-  &nbsp; • &nbsp;
-  <b>GitHub Foundations</b>
 </p>
 
 ---
