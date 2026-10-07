@@ -77,23 +77,17 @@
 <h2 align="center">🏆 Certifications</h2>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/a1dc51c1-bc97-4336-a248-efee4dc330ab" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/684d8d4b-7c6e-4b2e-bb2b-5c6b8f0c9f0e/image.png" width="150" alt="AWS Certified Cloud Practitioner"/>
+  <a href="https://www.credly.com/badges/a1dc51c1-bc97-4336-a248-efee4dc330ab">
+    <img src="YOUR_CREDLY_CLOUD_PRACTITIONER_BADGE_IMAGE" width="180" alt="AWS Certified Cloud Practitioner"/>
   </a>
 
-  <a href="https://www.credly.com/badges/d300add6-c96d-493b-a44e-105ef1c0eb33" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0c4e6b1c-9c2a-4d5e-9e4a-2c1b0d8e6f5a/image.png" width="150" alt="AWS Certified AI Practitioner"/>
+  <a href="https://www.credly.com/badges/d300add6-c96d-493b-a44e-105ef1c0eb33">
+    <img src="YOUR_CREDLY_AI_PRACTITIONER_BADGE_IMAGE" width="180" alt="AWS Certified AI Practitioner"/>
   </a>
 
-  <a href="https://www.credly.com/badges/97dfd3e6-9154-404e-a408-2e99121b73f3" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/8e5e2c5d-7f4b-4a8c-9b2d-3e6f1a2c4d5b/image.png" width="150" alt="GitHub Foundations"/>
+  <a href="https://www.credly.com/badges/97dfd3e6-9154-404e-a408-2e99121b73f3">
+    <img src="YOUR_CREDLY_GITHUB_FOUNDATIONS_BADGE_IMAGE" width="180" alt="GitHub Foundations"/>
   </a>
-</p>
-
-<p align="center">
-  <b>AWS Certified Cloud Practitioner</b> &nbsp; • &nbsp;
-  <b>AWS Certified AI Practitioner</b> &nbsp; • &nbsp;
-  <b>GitHub Foundations</b>
 </p>
 ---
 
